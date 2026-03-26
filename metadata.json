@@ -1,0 +1,7 @@
+{
+  "name": "MechPart Marketplace",
+  "description": "A professional marketplace for buying and selling used mechanical parts for cars, motorcycles, and industrial equipment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
